@@ -6,18 +6,18 @@ import teradatasql
 import datetime
 import time
 
-# Connexion Teradata
-host     = '10.43.67.32'
-user     = 'u165983'
-password = '7BB43ryXd6'
+# Connexion
+host     = ''
+user     = ''
+password = ''
 url      = '{"host":"'+host+'","user":"'+user+'","password":"'+password+'"}'
 
 # Répertoire SQL
 repertoire = r'SQL/'
 
 # Données
-table_set_1 = 'VH_S_BANCAIRE.TDI_ECOM_CMD'
-table_set_2 = 'VH_S_BANCAIRE.TDI_ECOM_CMD'
+table_set_1 = 'XXX'
+table_set_2 = 'XXX'
 
 # Dates
 date_min_set_1 = '2021-09-01'
